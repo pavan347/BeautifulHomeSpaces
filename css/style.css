@@ -483,7 +483,7 @@ p {
 }
 
 .contact-fixed-phone div:hover {
-    background-color: rgb(253, 218, 225);
+/*     background-color: rgb(253, 218, 225); */
 }
 
 .contact-fixed-phone .phone {
